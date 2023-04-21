@@ -1,0 +1,16 @@
+C:\Users\Alex\OneDrive - Calvin University\CS 212\prog5\MankalahPlayer\MankalahPlayer\obj\Debug\MankalahPlayer.csproj.AssemblyReference.cache
+C:\Users\Alex\OneDrive - Calvin University\CS 212\prog5\MankalahPlayer\MankalahPlayer\obj\Debug\MankalahPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Alex\OneDrive - Calvin University\CS 212\prog5\MankalahPlayer\MankalahPlayer\bin\Debug\MankalahPlayer.dll
+C:\Users\Alex\OneDrive - Calvin University\CS 212\prog5\MankalahPlayer\MankalahPlayer\bin\Debug\MankalahPlayer.pdb
+C:\Users\Alex\OneDrive - Calvin University\CS 212\prog5\MankalahPlayer\MankalahPlayer\bin\Debug\MankalahLib.dll
+C:\Users\Alex\OneDrive - Calvin University\CS 212\prog5\MankalahPlayer\MankalahPlayer\obj\Debug\MankalahPlayer.csproj.CopyComplete
+C:\Users\Alex\OneDrive - Calvin University\CS 212\prog5\MankalahPlayer\MankalahPlayer\obj\Debug\MankalahPlayer.dll
+C:\Users\Alex\OneDrive - Calvin University\CS 212\prog5\MankalahPlayer\MankalahPlayer\obj\Debug\MankalahPlayer.pdb
+C:\Users\alexi\OneDrive - Calvin University\CS 212\prog5\MankalahPlayer\MankalahPlayer\bin\Debug\MankalahPlayer.dll
+C:\Users\alexi\OneDrive - Calvin University\CS 212\prog5\MankalahPlayer\MankalahPlayer\bin\Debug\MankalahPlayer.pdb
+C:\Users\alexi\OneDrive - Calvin University\CS 212\prog5\MankalahPlayer\MankalahPlayer\bin\Debug\MankalahLib.dll
+C:\Users\alexi\OneDrive - Calvin University\CS 212\prog5\MankalahPlayer\MankalahPlayer\obj\Debug\MankalahPlayer.csproj.AssemblyReference.cache
+C:\Users\alexi\OneDrive - Calvin University\CS 212\prog5\MankalahPlayer\MankalahPlayer\obj\Debug\MankalahPlayer.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive - Calvin University\CS 212\prog5\MankalahPlayer\MankalahPlayer\obj\Debug\MankalahPlayer.csproj.CopyComplete
+C:\Users\alexi\OneDrive - Calvin University\CS 212\prog5\MankalahPlayer\MankalahPlayer\obj\Debug\MankalahPlayer.dll
+C:\Users\alexi\OneDrive - Calvin University\CS 212\prog5\MankalahPlayer\MankalahPlayer\obj\Debug\MankalahPlayer.pdb
