@@ -1,0 +1,5 @@
+C:\Users\ajm94\OneDrive - Calvin University\CS 212\project-2\project-2\obj\Debug\netcoreapp3.1\project-2.csproj.AssemblyReference.cache
+C:\Users\ajm94\OneDrive - Calvin University\CS 212\project-2\project-2\obj\Debug\netcoreapp3.1\project-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajm94\OneDrive - Calvin University\CS 212\project-2\project-2\obj\Debug\netcoreapp3.1\project-2.AssemblyInfoInputs.cache
+C:\Users\ajm94\OneDrive - Calvin University\CS 212\project-2\project-2\obj\Debug\netcoreapp3.1\project-2.AssemblyInfo.cs
+C:\Users\ajm94\OneDrive - Calvin University\CS 212\project-2\project-2\obj\Debug\netcoreapp3.1\project-2.csproj.CoreCompileInputs.cache
