@@ -1,0 +1,14 @@
+C:\Users\ajm94\OneDrive - Calvin University\CS 212\Project 1\Project-1\bin\Debug\netcoreapp3.1\Project-1.exe
+C:\Users\ajm94\OneDrive - Calvin University\CS 212\Project 1\Project-1\bin\Debug\netcoreapp3.1\Project-1.deps.json
+C:\Users\ajm94\OneDrive - Calvin University\CS 212\Project 1\Project-1\bin\Debug\netcoreapp3.1\Project-1.runtimeconfig.json
+C:\Users\ajm94\OneDrive - Calvin University\CS 212\Project 1\Project-1\bin\Debug\netcoreapp3.1\Project-1.runtimeconfig.dev.json
+C:\Users\ajm94\OneDrive - Calvin University\CS 212\Project 1\Project-1\bin\Debug\netcoreapp3.1\Project-1.dll
+C:\Users\ajm94\OneDrive - Calvin University\CS 212\Project 1\Project-1\bin\Debug\netcoreapp3.1\Project-1.pdb
+C:\Users\ajm94\OneDrive - Calvin University\CS 212\Project 1\Project-1\obj\Debug\netcoreapp3.1\Project-1.csproj.AssemblyReference.cache
+C:\Users\ajm94\OneDrive - Calvin University\CS 212\Project 1\Project-1\obj\Debug\netcoreapp3.1\Project-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajm94\OneDrive - Calvin University\CS 212\Project 1\Project-1\obj\Debug\netcoreapp3.1\Project-1.AssemblyInfoInputs.cache
+C:\Users\ajm94\OneDrive - Calvin University\CS 212\Project 1\Project-1\obj\Debug\netcoreapp3.1\Project-1.AssemblyInfo.cs
+C:\Users\ajm94\OneDrive - Calvin University\CS 212\Project 1\Project-1\obj\Debug\netcoreapp3.1\Project-1.csproj.CoreCompileInputs.cache
+C:\Users\ajm94\OneDrive - Calvin University\CS 212\Project 1\Project-1\obj\Debug\netcoreapp3.1\Project-1.dll
+C:\Users\ajm94\OneDrive - Calvin University\CS 212\Project 1\Project-1\obj\Debug\netcoreapp3.1\Project-1.pdb
+C:\Users\ajm94\OneDrive - Calvin University\CS 212\Project 1\Project-1\obj\Debug\netcoreapp3.1\Project-1.genruntimeconfig.cache
